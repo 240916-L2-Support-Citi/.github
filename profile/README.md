@@ -31,7 +31,7 @@ Welcome to 240916 L2 Support training! Here you'll find useful information for t
 
 ## <a name="projects"></a>Project Specs
 
-- *Coming Soon*
+- [P0](https://github.com/240916-L2-Support-Citi/trainer-code/blob/main/Project%20Specifications/Project0.md)
 
 ## <a name="installs"></a>Software Install Links
 
