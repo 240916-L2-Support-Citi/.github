@@ -11,7 +11,7 @@ Welcome to 240916 L2 Support training! Here you'll find useful information for t
 
 ## <a name="general"></a>General Training Information
 
-- Duration: 09/16/24 - 11/22/2024 (8 weeks)
+- Duration: 09/16/24 - 11/08/2024 (8 weeks)
 - Work Hours: M-F 9AM - 5PM, Eastern Time. 
 - Lunch 12 - 1PM
 - Trainer: Jonathan De La Cruz(<jonathan.delacruz@revature.com>)
