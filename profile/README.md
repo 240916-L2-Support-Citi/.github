@@ -4,8 +4,6 @@ Welcome to 240916 L2 Support training! Here you'll find useful information for t
 
 ## Table of Contents
 
-- [240916 - L2 Support](#240916---l2-support)
-  - [Table of Contents](#table-of-contents)
   - [General Training Information](#general-training-information)
   - [Useful Links](#useful-links)
   - [Project Specs](#project-specs)
