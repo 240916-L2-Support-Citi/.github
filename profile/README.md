@@ -37,4 +37,4 @@ Welcome to 240916 L2 Support training! Here you'll find useful information for t
 
 ## <a name="installs"></a>Software Install Links
 
-- *Coming soon!*
+- <a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer">Git Download</a>
